@@ -1,11 +1,3 @@
-# Android CamSwap (Open Source)
-感谢项目 [android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) 为本项目提供的灵感和代码基础。
-
-Android CamSwap 是一个基于 Xposed 框架的虚拟摄像头模块。它能够拦截 Android 系统相机的预览和拍照请求，并将预览画面替换为用户指定的视频。
-
-本项目采用现代化的 Android 开发技术栈（Kotlin, Jetpack Compose）重构，并引入了基于 ContentProvider 的跨进程数据传输机制，兼容高版本 Android (11+) 的文件权限隔离。
-
-旧版 v2.0 及之前版本的实现细节以历史提交为准，当前分支已完成重构与结构调整。
 
 ## ✨ 主要功能
 
@@ -71,11 +63,6 @@ Android CamSwap 是一个基于 Xposed 框架的虚拟摄像头模块。它能�
 请勿将本项目用于任何非法用途（包括但不限于人脸识别绕过、身份欺诈等）。  
 使用者需自行承担因使用本项目而产生的一切法律责任。
 
-## ❤️ 支持
-
-如果本项目对你有帮助，请点 ⭐ Star 支持！
-
-![Star History](https://api.star-history.com/svg?repos=zensu357/Android-CamSwap-OpenSource&type=20260219)
 
 ## 📄 许可证
 
